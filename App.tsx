@@ -18,11 +18,11 @@ import {
 } from 'react-native';
 
 import {Colors} from 'react-native/Libraries/NewAppScreen';
-import {LoginScreen} from './ios/screens/LoginScreen';
-import {ProfileScreen} from './ios/screens/ProfileScreen';
-import {SignUpScreen} from './ios/screens/SignUpScreen';
-import {DashboardScreen} from './ios/screens/DashboardScreen';
-import {SplashScreen} from './ios/screens/SplashScreen';
+import {LoginScreen} from './screens/LoginScreen';
+import {ProfileScreen} from './screens/ProfileScreen';
+import {SignUpScreen} from './screens/SignUpScreen';
+import {DashboardScreen} from './screens/DashboardScreen';
+import {SplashScreen} from './screens/SplashScreen';
 
 const Stack = createNativeStackNavigator();
 
